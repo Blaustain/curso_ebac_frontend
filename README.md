@@ -1,4 +1,4 @@
- EBAC- Escola britãnica de artes criativas & tecnologia-2025.
+ EBAC- Escola britânica de artes criativas & tecnologia-2025.
 Pratique  Git#
 
 
